@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "WH_Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "inicio",
+			"indices": [],
+			"name": "WH_Intro"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "congf",
+			"indices": [],
+			"name": "WH_ToGF"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixel/WA_assets",
+	"position": [
+		700,
+		260
+	],
+	"healthicon": "burried",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		-480,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 6.50000000000002
+}

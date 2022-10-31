@@ -1,0 +1,11 @@
+{
+	"idle_anim": "amusia",
+	"confirm_anim": "amusia",
+	"position": [
+		98,
+		67
+	],
+	"scale": 0.75,
+	"flipX": false,
+	"image": "menu_amusia"
+}

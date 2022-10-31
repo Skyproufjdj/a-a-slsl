@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "purin",
+	"idle_anim": "purin",
+	"position": [
+		8,
+		67
+	],
+	"scale": 0.75,
+	"image": "menu_purin",
+	"flipX": false
+}

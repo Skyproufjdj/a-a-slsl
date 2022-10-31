@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "X IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "X LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "X DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				53
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "X UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				247
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "X RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PASTA/PASTA_LORDX",
+	"position": [
+		20,
+		-100
+	],
+	"healthicon": "icon-lord-x",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		62,
+		93
+	],
+	"camera_position": [
+		50,
+		-70
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.5
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "brimstone",
+	"idle_anim": "brimstone",
+	"position": [
+		113,
+		167
+	],
+	"scale": 0.75,
+	"image": "Menu_brimstone",
+	"flipX": false
+}

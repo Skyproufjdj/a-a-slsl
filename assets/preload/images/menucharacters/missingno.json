@@ -1,0 +1,11 @@
+{
+	"idle_anim": "missingno",
+	"confirm_anim": "missingno",
+	"position": [
+		198,
+		68
+	],
+	"scale": 0.75,
+	"flipX": false,
+	"image": "Menu_missingno"
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "insomnia",
+	"idle_anim": "insomnia",
+	"position": [
+		18,
+		67
+	],
+	"scale": 0.75,
+	"image": "Menu_insomnia",
+	"flipX": false
+}

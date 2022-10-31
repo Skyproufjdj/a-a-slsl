@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "safety-lullaby",
+	"idle_anim": "safety-lullaby",
+	"position": [
+		230,
+		105
+	],
+	"scale": 0.65,
+	"image": "Menu_safety-lullaby",
+	"flipX": false
+}

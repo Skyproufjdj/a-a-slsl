@@ -1,0 +1,11 @@
+{
+	"idle_anim": "isotope",
+	"confirm_anim": "isotope",
+	"position": [
+		38,
+		75
+	],
+	"scale": 0.75,
+	"flipX": false,
+	"image": "Menu_isotope"
+}

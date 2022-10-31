@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "pasta-night",
+	"idle_anim": "pasta-night",
+	"position": [
+		168,
+		67
+	],
+	"scale": 0.75,
+	"image": "munu_pasta-night",
+	"flipX": false
+}

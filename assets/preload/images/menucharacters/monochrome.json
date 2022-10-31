@@ -1,0 +1,11 @@
+{
+	"idle_anim": "monochrome",
+	"confirm_anim": "monochrome",
+	"position": [
+		190,
+		67
+	],
+	"scale": 0.75,
+	"flipX": false,
+	"image": "Menu_monochrome"
+}

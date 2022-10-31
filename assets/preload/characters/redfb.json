@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				89,
+				-55
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Norm Red left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				96,
+				-72
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Norm Red down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				182,
+				-31
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Norm Red UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				-57
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Norm Red right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				-51
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Norm Red Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SILVER/mt_silver_red_norm",
+	"position": [
+		500,
+		0
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		55
+	],
+	"camera_position": [
+		-800,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

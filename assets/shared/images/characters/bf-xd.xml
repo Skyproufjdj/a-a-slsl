@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-xd.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="c murio0000" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0001" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0002" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0003" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0004" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0005" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0006" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0007" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0008" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0009" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0010" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0011" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0012" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0013" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0014" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0015" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0016" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0017" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0018" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0019" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0020" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0021" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0022" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0023" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0024" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0025" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0026" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0027" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0028" x="0" y="0" width="416" height="231"/>
+	<SubTexture name="c murio0029" x="0" y="0" width="416" height="231"/>
+</TextureAtlas>

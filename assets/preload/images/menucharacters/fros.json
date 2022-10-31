@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "frostbite",
+	"idle_anim": "frostbite",
+	"position": [
+		138,
+		67
+	],
+	"scale": 0.75,
+	"image": "Menu_fros",
+	"flipX": false
+}

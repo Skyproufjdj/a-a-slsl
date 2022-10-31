@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "shitno",
+	"idle_anim": "shitno",
+	"position": [
+		260,
+		147
+	],
+	"scale": 0.75,
+	"image": "Menu_shitno",
+	"flipX": false
+}

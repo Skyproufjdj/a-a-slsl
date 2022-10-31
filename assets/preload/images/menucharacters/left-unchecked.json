@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "left-unchecked",
+	"idle_anim": "left-unchecked",
+	"position": [
+		204,
+		92
+	],
+	"scale": 0.65,
+	"image": "Menu_left-unchecked",
+	"flipX": false
+}

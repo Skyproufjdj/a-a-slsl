@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Ending instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HYPNO/hypno_ending_sequence",
+	"position": [
+		90,
+		-560
+	],
+	"healthicon": "hypno-dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		223,
+		68
+	],
+	"camera_position": [
+		-280,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

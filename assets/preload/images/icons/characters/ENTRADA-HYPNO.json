@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "inicio",
+			"fps": 24,
+			"name": "Entrance instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HYPNO/ABOMINATION_HYPNO_ENTRANCE",
+	"position": [
+		620,
+		-150
+	],
+	"healthicon": "icon-bfhypno",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-370,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
